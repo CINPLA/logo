@@ -532,15 +532,15 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="367.18108"
      inkscape:cy="322.61426"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer9"
      showgrid="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-intersection-paths="true"
@@ -580,6 +580,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="background">
+    <rect
+       style="opacity:0.62139917000000000;fill:#ffffff;fill-opacity:0.94117647000000004;stroke:none"
+       id="rect4964"
+       width="1139.9717"
+       height="523.88385"
+       x="0"
+       y="0"
+       ry="3.9914615" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
