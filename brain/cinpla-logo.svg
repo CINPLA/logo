@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="cinpla-logo.svg">
+   sodipodi:docname="cinpla-logo.svg"
+   inkscape:export-filename="/home/svenni/Dropbox/studies/cinpla/logo/cinpla-logo.png"
+   inkscape:export-xdpi="68.57"
+   inkscape:export-ydpi="68.57">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -274,7 +277,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55256642"
-     inkscape:cx="54.388562"
+     inkscape:cx="705.89395"
      inkscape:cy="-82.982884"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -310,7 +313,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
