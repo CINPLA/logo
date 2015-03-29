@@ -2,7 +2,7 @@
 
 This repo contains various CINPLA logos:
 
-![`cinpla.png`: red-blue logo with text](brain/cinpla.png)
+![cinpla.png: red-blue logo with text](brain/cinpla.png)
 ![`cinpla_logo.png`: small logo withoug text](brain/cinpla_logo.png)
 ![`cinpla_logo_transparent.png`: transparent small logo withoug text](brain/cinpla_logo_transparent.png)
 ![`cinpla_uio.png`: UiO-colored logo with text](brain/cinpla_uio.png)
