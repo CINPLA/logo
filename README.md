@@ -1,6 +1,6 @@
 # logo
 
-This repo contains various CINPLA logos:
+This repo contains various CINPLA logos font (Maven Pro):
 
 ### `cinpla.png`: red-blue logo with text
 ![`cinpla.png`: red-blue logo with text](brain/cinpla.png)
