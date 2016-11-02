@@ -1,29 +1,15 @@
-# logo
+This repo contains the CINPLA logo. 
 
-This repo contains various CINPLA logos (font: Maven Pro):
+![`cinpla.png`: red-blue logo with text](cinpla-logo.png)
 
-### `cinpla.png`: red-blue logo with text
-![`cinpla.png`: red-blue logo with text](brain/cinpla.png)
+The following folders contain variations of the logo:
 
-### `cinpla_logo.png`: small logo without text
-![`cinpla_logo.png`: small logo without text](brain/cinpla_logo.png)
+- logo-only: The logo without the CINPLA text.
+- original: The original SVG files, which may depend on fonts to be installed. We recommend using the SVG in the root folder instead.
+- small: A variation of the logo with less details, which may be useful if the logo is small on screen or print.
+- text-only: Only the cinpla text.
 
-### `cinpla_logo_transparent.png`: transparent small logo without text
-![`cinpla_logo_transparent.png`: transparent small logo without text](brain/cinpla_logo_transparent.png)
+You may download all the logos at once by clicking the green button above.
 
-### `cinpla_uio.png`: UiO-colored logo with text
-![`cinpla_uio.png`: UiO-colored logo with text](brain/cinpla_uio.png)
+Do not link to the logos in this repository as the files may be moved in the future.
 
-### `cinpla_uio_logo.png`: small UiO-colored logo without text
-![`cinpla_uio_logo.png`: small UiO-colored logo without text](brain/cinpla_uio_logo.png)
-
-### `cinpla_nmbu.png`: green logo with text
-![`cinpla_nmbu.png`: green logo with text](brain/cinpla_nmbu.png)
-
-### Inclusion
-
-The logos can be included in web pages through URLs of the form
-
-```
-https://raw.githubusercontent.com/CINPLA/logo/master/brain/cinpla_logo_transparent.png
-```
